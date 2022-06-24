@@ -1,0 +1,8 @@
+"developer-dashboard":
+  "image":
+    "tag": "v1.4.4"
+"global":
+  "clusterType": "openshift"
+  "ingressSubdomain": ""
+  "tlsSecretName": ""
+
