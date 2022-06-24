@@ -1,0 +1,30 @@
+"artifactory":
+  "artifactory":
+    "persistence":
+      "enabled": true
+      "size": "5Gi"
+      "storageClassName": ""
+    "uid": 0
+  "ingress":
+    "defaultBackend":
+      "enabled": false
+    "enabled": false
+    "hosts":
+    - "artifactory-tools."
+    "tls":
+    - "hosts":
+      - "artifactory-tools."
+      "secretName": ""
+  "nginx":
+    "enabled": false
+  "postgresql":
+    "enabled": false
+  "serviceAccount":
+    "create": true
+    "name": "artifactory-artifactory"
+"global":
+  "clusterType": "ocp4"
+  "ingressSubdomain": ""
+  "storageClass": ""
+  "tlsSecretName": ""
+
