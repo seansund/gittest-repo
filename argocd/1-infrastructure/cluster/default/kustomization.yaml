@@ -4,6 +4,7 @@ resources:
   - base/namespace-tools.yaml
   - base/tools-artifactory-artifactory-sa.yaml
   - base/tools-artifactory-artifactory-scc.yaml
+  - base/tools-artifactory-config-sa.yaml
   - base/tools-sonarqube-sonarqube-rbac.yaml
   - base/tools-sonarqube-sonarqube-sa.yaml
   - base/tools-sonarqube-sonarqube-scc.yaml
