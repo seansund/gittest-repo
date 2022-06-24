@@ -1,6 +1,7 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 resources:
+  - base/tools-artifactory.yaml
   - base/tools-dashboard.yaml
   - base/tools-pact-broker.yaml
   - base/tools-sonarqube.yaml
