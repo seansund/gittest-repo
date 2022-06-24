@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
   - base/namespace-tools.yaml
   - base/tools-sonarqube-sonarqube-sa.yaml
+  - base/tools-sonarqube-sonarqube-scc.yaml
