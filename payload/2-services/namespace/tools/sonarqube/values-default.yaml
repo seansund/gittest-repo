@@ -1,0 +1,5 @@
+"global":
+  "clusterType": "ocp4"
+  "ingressSubdomain": ""
+  "storageClass": ""
+
