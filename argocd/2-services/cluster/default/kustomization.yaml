@@ -5,3 +5,4 @@ resources:
   - base/tools-dashboard.yaml
   - base/tools-pact-broker.yaml
   - base/tools-sonarqube.yaml
+  - base/tools-tekton-resources.yaml
