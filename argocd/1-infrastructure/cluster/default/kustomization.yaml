@@ -6,6 +6,7 @@ resources:
   - base/tools-artifactory-artifactory-scc.yaml
   - base/tools-artifactory-config-rbac.yaml
   - base/tools-artifactory-config-sa.yaml
+  - base/sms-test1
   - base/tools-sonarqube-sonarqube-rbac.yaml
   - base/tools-sonarqube-sonarqube-sa.yaml
   - base/tools-sonarqube-sonarqube-scc.yaml
