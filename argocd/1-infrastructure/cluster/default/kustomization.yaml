@@ -20,6 +20,7 @@ resources:
   - base/sms-test12
   - base/sms-test13
   - base/sms-test15
+  - base/sms-test16
   - base/tools-sonarqube-sonarqube-rbac.yaml
   - base/tools-sonarqube-sonarqube-sa.yaml
   - base/tools-sonarqube-sonarqube-scc.yaml
